@@ -1,0 +1,30 @@
+{
+  "name": "itemplate-loader",
+  "version": "0.1.0",
+  "description": "idom-template loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rapid-Application-Development-JS/itemplate-loader.git"
+  },
+  "keywords": [
+    "itemplate",
+    "incremental-dom",
+    "webpack",
+    "loader"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rapid-Application-Development-JS/itemplate-loader/issues"
+  },
+  "homepage": "https://github.com/Rapid-Application-Development-JS/itemplate-loader#readme",
+  "dependencies": {
+    "idom-template": "^1.1.0",
+    "incremental-dom": "^0.4.1",
+    "loader-utils": "^0.2.12"
+  }
+}
