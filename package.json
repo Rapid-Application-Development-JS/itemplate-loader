@@ -1,6 +1,6 @@
 {
   "name": "itemplate-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "idom-template loader for webpack",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Rapid-Application-Development-JS/itemplate-loader#readme",
   "dependencies": {
-    "idom-template": "^1.1.0",
+    "idom-template": "^1.1.2",
     "incremental-dom": "^0.4.1",
     "loader-utils": "^0.2.12"
   }
