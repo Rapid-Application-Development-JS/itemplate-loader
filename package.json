@@ -1,6 +1,6 @@
 {
   "name": "itemplate-loader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "idom-template loader for RAD.js",
   "main": "index.js",
   "scripts": {
